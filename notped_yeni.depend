@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1482448142 source:c:\users\murat_karakoc\desktop\notped_yeni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1483716670 source:c:\users\murat_karakoc\desktop\univercity\2.sýnýf\1.dönem\dersler\prolab\notepad proje\notped_yeni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1483716670 source:d:\univercity\2.sinif\1.dönem\dersler\prolab\notepad proje\notped_yeni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
