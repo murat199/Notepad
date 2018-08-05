@@ -5,3 +5,6 @@
 <p>-When the page is over, it can be switched to the new page.</p>
 <p>-Navigate between pages.</p>
 <p>-Cut, copy and paste features can be selected by double keys like shift.</p>
+
+## Credits
+Design and programming by [Emre Kızıltepe](https://github.com/emrekiziltepe) and [Murat Karakoç](https://github.com/murat199).
